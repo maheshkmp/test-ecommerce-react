@@ -1,6 +1,6 @@
 /* Header container */
 .header {
-  width: 100%; /* full width */
+  width: 100vw; /* full width */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -9,6 +9,7 @@
   color: white;
   box-shadow: 0 2px 10px rgba(0,0,0,0.15);
   box-sizing: border-box; /* so padding doesn’t add extra width */
+  position: fixed;
 }
 
 
