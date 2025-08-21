@@ -3,25 +3,7 @@ import React from "react";
 function BodyContent() {
   return (
     <div>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
-      <h1>Hi body how are you? </h1>
+      <img src="heroImage.png" alt="" />
     </div>
   );
 }
